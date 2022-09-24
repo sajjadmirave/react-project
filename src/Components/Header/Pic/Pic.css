@@ -1,0 +1,11 @@
+.Pic{
+    display: flex;
+    justify-content: center;
+}
+
+.Pic img{
+    width: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin-top: 15px;
+}

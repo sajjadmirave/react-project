@@ -1,0 +1,15 @@
+footer {
+  width: 310px;
+  height: calc(490px - 310px - 80px);
+  border-radius: 0 0 14px 14px;
+  background: black;
+  color: white;
+  /* flex center */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  color: red;
+}

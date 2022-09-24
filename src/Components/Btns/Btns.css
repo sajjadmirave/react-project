@@ -1,0 +1,9 @@
+.Btns_box {
+  width: 310px;
+  height: 80px;
+  background: lightblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: row;
+}
